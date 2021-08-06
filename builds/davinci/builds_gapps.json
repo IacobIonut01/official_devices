@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": "1626809803",
-            "filename": "dotOS-R-v5.1.2-davinci-GAPPS-20210720-1929.zip",
+            "datetime": "1628809803",
+            "filename": "dotOS-R-v5.2-davinci-GAPPS-20210805-2034.zip",
             "id": "5e9892adda5c603b88274d175aa331d6",
             "romtype": "GAPPS",
             "size": "1808971140",
             "url": "https://downloads.droidontime.com/dot11/davinci/gapps/dotOS-R-v5.1.2-davinci-GAPPS-20210720-1929.zip",
-            "version": "v5.1.2",
+            "version": "v5.2",
             "changelog": [
                 {
                     "miscTitle": "New features",
